@@ -1,0 +1,6 @@
+{
+    "sketch": "app.ino",
+    "port": "COM4",
+    "board": "arduino:avr:uno",
+    "programmer": "AVR ISP"
+}
